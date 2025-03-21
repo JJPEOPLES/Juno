@@ -32,11 +32,9 @@ Run install_juno.bat to automatically set up Juno and create a virtual environme
 
 If you want to try the GUI, be aware that it’s currently bugged. I’d appreciate any help fixing it as I’m an indie dev. To install the GUI, use the following command:
 
-bash
-Copy
-Edit
+'''bash
 jpm install gui
-Contributing & Open Source
+## Contributing & Open Source
 This software is open-source. Feel free to fork and make modifications as you wish. However, please make sure your modifications bring something useful to the table. We want to encourage creativity and improvements—not just copying!
 
 ## Notes
