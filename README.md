@@ -1,30 +1,20 @@
-## Installation Guide for Juno
-1. Clone the Repository
-First, clone this repository to your local machine.
+# Juno 
+ Clone this repository and copy the juno.bat file as a path go to enviorment varibales create a new one called juno then paste the path to the juno.bat file (not juno2.bat juno2 is bugged) 
+then go to examples folder then type  juno thank_you.juno
+as a thanks for downloading my sofftware 
 
-## Setting up Juno
-After cloning, copy the juno.bat file to a folder of your choice and add it to the system PATH:
+## Installation via install_juno.bat 
+run install_juno.bat and create a venv if u want 
+if u want the cool gui stuff (its bugged also pls help i am a indie dev)
+do 
 
-Open Environment Variables in your system settings.
-Create a new System variable called JUNO.
-Paste the path to juno.bat (not juno2.bat, as it is currently bugged).
-3. Running Your First Program
-Navigate to the examples folder.
-Run the following command to execute a Juno file:
-''' bash
-juno thank_you.juno
-This is a small token of thanks for downloading the software!
+# How to Install the GUI with JPM
 
-## Installation via install_juno.bat
-Run install_juno.bat to automatically set up Juno and create a virtual environment if you want.
+To install the GUI in Juno, use the following command:
 
-If you want to try the GUI, be aware that it’s currently bugged. I’d appreciate any help fixing it as I’m an indie dev. To install the GUI, use the following command:
+bash
+jpm install gui
 
-''' bash
- jpm install gui
-## Contributing & Open Source
-This software is open-source. Feel free to fork and make modifications as you wish. However, I do not accept people who simply copy the language without adding any value. If you're going to copy it, at least bring something useful to the table. We want innovation, not imitation!
+## Other stuff
 
-## Notes
-Important: juno2.bat is currently bugged, so do not use it.
-Please report any issues with the GUI or other features!
+This is opensource you can copy but pls make modifacations we dont like losers like th
