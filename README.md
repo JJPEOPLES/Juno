@@ -35,6 +35,8 @@ If you want to try the GUI, be aware that it’s currently bugged. I’d appreci
 ```bash
 jpm install gui
 
+
+
 ## Contributing & Open Source
 This software is open-source. Feel free to fork and make modifications as you wish. However, please make sure your modifications bring something useful to the table. We want to encourage creativity and improvements—not just copying!
 
