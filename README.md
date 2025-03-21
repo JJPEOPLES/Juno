@@ -8,5 +8,5 @@ run install_juno.bat and create a venv if u want
 if u want the cool gui stuff (its bugged also pls help i am a indie dev)
 do 
 
-'' bash 
+''' bash 
 jpm install gui
