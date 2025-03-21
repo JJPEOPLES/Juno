@@ -8,5 +8,9 @@ run install_juno.bat and create a venv if u want
 if u want the cool gui stuff (its bugged also pls help i am a indie dev)
 do 
 
-''' bash 
+# How to Install the GUI with JPM
+
+To install the GUI in Juno, use the following command:
+
+```bash
 jpm install gui
